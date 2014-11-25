@@ -1,0 +1,6 @@
+{
+  "name": "Toshi Hubot",
+  "description": "My own hubot",
+  "repository": "https://github.com/toshimaru/toshi-hubot",
+  "keywords": ["node", "hubot"]
+}
