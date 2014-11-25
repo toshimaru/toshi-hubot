@@ -6,6 +6,10 @@ This version is designed to be deployed on [Heroku][heroku]. This README was gen
 
 [heroku]: http://www.heroku.com
 
+## Deploy to heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/toshimaru/toshi-hubot)
+
 ### Testing Hubot Locally
 
 You can test your hubot by running the following.
